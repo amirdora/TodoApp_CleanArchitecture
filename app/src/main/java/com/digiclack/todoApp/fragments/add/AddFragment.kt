@@ -1,4 +1,4 @@
-package com.digiclack.todoApp.fragments
+package com.digiclack.todoApp.fragments.add
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import com.digiclack.todoApp.R
 
-class ListFragment : Fragment() {
+
+class AddFragment : Fragment() {
 
 
     override fun onCreateView(
@@ -15,7 +16,7 @@ class ListFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_list, container, false)
+        return inflater.inflate(R.layout.fragment_add, container, false)
     }
 
 }

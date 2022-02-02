@@ -1,4 +1,4 @@
-package com.digiclack.todoApp.fragments
+package com.digiclack.todoApp.fragments.update
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
