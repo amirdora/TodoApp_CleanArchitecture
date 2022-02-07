@@ -5,13 +5,17 @@
       <map>
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/custom_input.xml" value="0.1814814814814815" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/ic_add.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/ic_check.xml" value="0.1421875" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/ic_data.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/ic_save.xml" value="0.1421875" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/drawable/ic_search.xml" value="0.22760416666666666" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/layout/fragment_add.xml" value="0.1234375" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/layout/fragment_list.xml" value="0.176" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/layout/fragment_update.xml" value="0.1234375" />
+        <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/menu/add_fragment_menu.xml" value="0.12604166666666666" />
         <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/menu/list_fragment_menu.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Ad/AndroidStudioProjects/TodoApp_CleanArchitecture/app/src/main/res/menu/update_fragment_menu.xml" value="0.12604166666666666" />
       </map>
     </option>
   </component>
